@@ -1,0 +1,3 @@
+The TextClassifier-LogisticRegression-NaiveBayes-FromScratch project is dedicated to implementing logistic regression and naive Bayes classifiers from scratch for text classification tasks. Unlike conventional approaches that rely on pre-built libraries, this project aims to develop classifiers using fundamental principles, allowing for a deeper understanding of their inner workings.
+
+One of the primary objectives of this project is to achieve comparable performance to scikit-learn's implementations in terms of accuracy, precision, recall, and F1 score. Through rigorous testing and evaluation on various text datasets, we aim to demonstrate that our custom implementations yield results on par with scikit-learn's classifiers
